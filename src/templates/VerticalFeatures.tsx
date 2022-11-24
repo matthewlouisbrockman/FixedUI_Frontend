@@ -4,7 +4,7 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="Too many sites have silly features"
-    description="Lots of sites have features that don't make sense. Let's make the web more usable."
+    description="Lots of sites have features that don't make sense. The FixedUI Chrome Extension changes the irritating behavior of websites to do what you want."
   >
     <VerticalFeatureRow
       title="Twitter Search"
