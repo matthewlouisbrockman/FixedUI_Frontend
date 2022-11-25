@@ -17,7 +17,7 @@ const Hero = () => (
         }
         description="Browse websites the way that makes sense."
         button={
-          <Link href="https://chrome.google.com/webstore/category/extensions">
+          <Link href="https://chrome.google.com/webstore/detail/fixedui/ccjnldpmocfclkchljacnjmbgdfcgbmi">
             <a>
               <Button xl>Download the Extension</Button>
             </a>
